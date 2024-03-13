@@ -39,6 +39,6 @@ Scrape and analyze Mars weather data from a website.
 ## Setup:
 
 1. Clone this repository to your local machine.
-2. Install the required libraries using `pip install -r requirements.txt`.
+2. Install the required libraries.
 3. Run the Jupyter notebooks to execute the web scraping and analysis tasks.
 
