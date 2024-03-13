@@ -6,7 +6,7 @@ This project involves web scraping data related to Mars from various sources. Th
 
 ## Part 1: Mars News Scraping
 
-### Notebook: part_1_mars_news.ipynb
+### Notebook: [part_1_mars_news.ipynb](https://github.com/myhre062/web-scraping-challenge/blob/main/Mars/part_1_mars_news.ipynb)
 
 #### Objective:
 Scrape titles and preview text from a Mars news website.
