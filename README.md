@@ -19,7 +19,7 @@ Scrape titles and preview text from a Mars news website.
 
 ## Part 2: Mars Weather Data Scraping and Analysis
 
-### Notebook: part_2_mars_weather.ipynb
+### Notebook: [part_2_mars_weather.ipynb](https://github.com/myhre062/web-scraping-challenge/blob/main/Mars/part_2_mars_weather.ipynb)
 
 #### Objective:
 Scrape and analyze Mars weather data from a website.
