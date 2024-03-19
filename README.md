@@ -1,6 +1,6 @@
 # web-scraping-challenge
 
-# Module 12
+# Module 11
 
 This project involves web scraping data related to Mars from various sources. The goal is to gather information about Mars and analyze it.
 
